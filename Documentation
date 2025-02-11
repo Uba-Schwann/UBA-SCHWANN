@@ -1,0 +1,8 @@
+1. House
+2. what is the purpose of your project.
+ The purpose of my project is to provide a comprehensive and supportive environment for individuals to learn and grow in the field if computer programming.
+ I aim to empower people from all backgrounds to acquire valuable coding skills, fostering creativity and, problem-solving abilities. This includes providing 
+ access to high-quality educational resources of learners thriving community of learners.
+3. How does your program work? 
+ The code works by defining functions for each shape (rectangle, triangle, square) and then using those functions within the house function to create a composite
+ image of a house. Each shape-drawing function takes arguments to specify its size, color, and position in the screen. 
